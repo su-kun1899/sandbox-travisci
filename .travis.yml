@@ -1,0 +1,7 @@
+language: php
+php:
+  - '7.4.26'
+  - '7.4.27'
+  - '7.4.28'
+script:
+  - php -v
